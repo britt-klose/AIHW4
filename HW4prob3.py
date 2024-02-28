@@ -1,8 +1,8 @@
 #######################################################
-#### MazeGame uses a grid of rows X cols to demonstrate
-#### pathfinding using A*.
-####
-#### AI, Spring 2024
+#### Problem #3: 
+#### How different values of alpha and beta affect the A* algorithm's behavior
+#### How just beta values effect the A* algorithm's behavior
+#### Begins on line 133
 #######################################################
 import tkinter as tk
 from PIL import ImageTk, Image, ImageOps 
