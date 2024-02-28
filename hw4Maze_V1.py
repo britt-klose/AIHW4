@@ -1,8 +1,7 @@
 #######################################################
-#### MazeGame uses a grid of rows X cols to demonstrate
-#### pathfinding using A*.
-####
-#### AI, Spring 2024
+#### Problem #1:
+### Modify AStarMaze to compare the behaviors of 
+### the Greedy Best-First and A* search algorithms
 #######################################################
 import tkinter as tk
 from PIL import ImageTk, Image, ImageOps 
