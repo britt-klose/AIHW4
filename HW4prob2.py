@@ -1,8 +1,10 @@
 #######################################################
-#### MazeGame uses a grid of rows X cols to demonstrate
-#### pathfinding using A*.
-####
-#### AI, Spring 2024
+#### Problem: #2 
+#### Using the same experiment from problem 1
+#### Use the Euclidean Distance heuristic.
+### The agent is allowed to make diagonal moves (i.e., NE, NW, SE, SW) 
+### in addition to the usual N, S, E, and W moves.
+### The moves are made randomly and not in any specific order.
 #######################################################
 import tkinter as tk
 from PIL import ImageTk, Image, ImageOps 
